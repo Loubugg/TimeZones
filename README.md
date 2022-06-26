@@ -1,6 +1,7 @@
 # TimeZones
 
 Africa/Abidjan
+
 Africa/Accra
 Africa/Addis_Ababa
 Africa/Algiers
